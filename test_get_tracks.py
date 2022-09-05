@@ -1,7 +1,7 @@
-from .pages.main_page import MainPage
+from pages.main_page import MainPage
 
 
-PLAYLIST_LINK = 'https://music.yandex.ru/users/sasha28200461/playlists/3'
+PLAYLIST_LINK = 'https://music.yandex.ru/users/simonivan24/playlists/1007'
 
 
 class TestGetTracks():
